@@ -13,7 +13,7 @@ exports[`renders homepage unchanged 1`] = `
         <a
           href="https://nextjs.org"
         >
-          Next.js!
+          Next.js! 123
         </a>
       </h1>
       <p
